@@ -1,4 +1,5 @@
 # University system
+University system for managing students and teachers
 
 ## Technologies
 - Java 17
@@ -13,10 +14,10 @@ cd university-system
 mvn spring-boot:run
 ```
 
-REST API documentation:  
-http://localhost:8080/swagger-ui
+## REST API documentation
+http://localhost:8080/swagger-ui/
 
-Database:  
+## Database
 http://localhost:8080/h2-console  
 | JDBC URL                  | username | password |
 |---------------------------|----------|----------|
